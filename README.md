@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## 💫 About Me:
-- 😄 I'm Foroozan Iraji, a 23-year-old who is trying to understand herself better.
+- 😄 I'm Foroozan Iraji, a 23-year-old who is exploring the art of building in business, in thought, and in life..
 - 🎓 Graduated from Sharif University of Technology, majoring in Computer Engineering.
 - 💼 Passionately interested in Business, Marketing, and digital user behavior.
 - 🔭 Currently working on turning my ideas into working software, using vibe coding to create quickly and then refactor the code.
-- 🌱 Deepening my React and Django knowledge to become a great full-stack developer.
+- 🌱 Deepening my React and Django knowledge to become an awesome full-stack developer.
 - 👯 Looking to collaborate on any cool software ideas.
 - 💬 Ask me about the book I’m reading and the new ideas I have.
 - 📫 Email me at fonij2002@gmail.com
