@@ -1,4 +1,4 @@
-## 💫 Who Am I?:
+## 💫 Who Am I?
 
 - 😄 I'm Foroozan Iraji, a 24-year-old who is exploring the art of building in business, in thought, and in life.
 - 🎓 Graduated from Sharif University of Technology, majoring in Computer Engineering.
@@ -22,7 +22,8 @@
 - Converting messy ideas from rough concept to polished product.
   
 
-## 📊 GitHub Stats:
+## 📊 What Is My Coding Stats?
+
 ![](https://github-readme-stats.vercel.app/api?username=fonij80&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fonij80&theme=tokyonight&hide_border=true)
